@@ -40,6 +40,10 @@ html {
   outline: 3px solid #fff;
 }
 
+h2 {
+  color: #fff;
+}
+
 .banner {
   min-height: 16em;
   color: #fff;
